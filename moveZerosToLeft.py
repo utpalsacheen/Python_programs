@@ -1,7 +1,8 @@
 #!/usr/bin/python
 
 """ Move Zeros to left """
-""" Given an integer array, move all elements containing '0' to the left while maintaining the order of other elements in the array"""
+""" Given an integer array, move all elements containing '0' to the left while 
+    maintaining the order of other elements in the array"""
 """ Runtime Complexity - Linear, O(n) """
 """ Memory Complexity  - Contant, O(1) """
 

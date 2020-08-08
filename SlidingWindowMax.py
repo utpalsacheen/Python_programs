@@ -3,7 +3,8 @@
 from collections import deque
 
 """ Find maximum number in the sliding window """
-""" Given large array of integers and a window of size 'w', find the current maximum in the window as the window slides through the entire array """
+""" Given large array of integers and a window of size 'w', 
+find the current maximum in the window as the window slides through the entire array """
 """ Runtime Complexity :  """
 """ Memory Complexity  :  """
 

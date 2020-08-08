@@ -3,7 +3,7 @@
 """
 Problem: Word Count
 ~~~~~~~~~~~~~~~~~~~
-Read a fie given in the command-line argument and print the number of 
+Read a file given in the command-line argument and print the number of 
 lines, words and characters - similar to UNIX's wc utility
 
 """
